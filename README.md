@@ -1,4 +1,4 @@
 # tsuki
 
-a feedback lighthouse for independent creators
+a feedback lighthouse for independent makers
   
